@@ -68,7 +68,7 @@ The dataset is the **California Housing Dataset**, which contains real-world hou
 The model was able to RMSE of $41422 which is a satisfactory result.
 
 ## Acknowledgement
-Inspired by the structure and lessons in Hands-On Machine Learning by Aurélien Géron.
+Inspired by the structure and lessons in Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron.
 
 
 
